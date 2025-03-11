@@ -20,7 +20,7 @@ Este projeto analisa vulnerabilidades na segurança da informação da Fatec Art
 
 **Autores:**
 
-- **Adryelle Calefi** - [@](https://github.com/)
+- **Adryelle Calefi** - [@DryCaleffi](https://github.com/DryCaleffi)
 - **Fernando Divino** - [@FernaandoJr](https://github.com/FernaandoJr)
 - **Ian Camargo** - [@IanCamargo](https://github.com/IanCamargo)
 - **Tabata Etiele** - [@](https://github.com/)
