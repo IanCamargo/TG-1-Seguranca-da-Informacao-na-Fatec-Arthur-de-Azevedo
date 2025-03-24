@@ -23,7 +23,7 @@ Este projeto analisa vulnerabilidades na segurança da informação da Fatec Art
 - **Adryelle Calefi** - [@DryCaleffi](https://github.com/DryCaleffi)
 - **Fernando Divino** - [@FernaandoJr](https://github.com/FernaandoJr)
 - **Ian Camargo** - [@IanCamargo](https://github.com/IanCamargo)
-- **Tabata Etiele** - [@tabataetiele]([https://github.com/](https://github.com/tabataetiele))
+- **Tabata Etiele** - [@TabataEtiele]([https://github.com/](https://github.com/tabataetiele))
 
 # 1.	INTRODUÇÃO
 Com o crescente avanço tecnológico e a enorme quantidade de informações que as pessoas utilizam e trocam por meio dos computadores, percebe-se cada vez mais a necessidade da assegurar que essas informações estejam seguras e não caiam nas “mãos” de pessoas má intencionadas. Existe uma área da computação destinada a proteger esses ativos informacionais conhecida como segurança da informação. Essa área busca criar mecanismos que ajudam o usuário ou instituição a tomar medidas de prevenção ou mitigação no caso de vazamento dos dados de seus usuários. 
